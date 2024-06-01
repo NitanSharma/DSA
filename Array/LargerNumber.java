@@ -1,4 +1,3 @@
-import java.util.*;
 public class LargerNumber {// TC :O(n)
     // find the largest number in a given Array
     public static int getLargest(int arr[]){

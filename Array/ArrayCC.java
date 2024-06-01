@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class ArrayCC{
     // Call by Reference
    /* public static void update(int num[]){
